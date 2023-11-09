@@ -912,14 +912,16 @@ section portfolio ou work */
 }
 
 .cover {
+   
     -webkit-transition: all 400ms ease-in-out;
     transition: all 400ms ease-in-out;
-    will-change: transform;
+    
 }
 
 .cover img {
     -webkit-transition: all 260ms ease-in-out;
     transition: all 260ms ease-in-out;
+   
 }
 
 .box .cover::after {
